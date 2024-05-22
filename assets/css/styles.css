@@ -15,9 +15,9 @@ body {
     font-size: 2rem;
     color: #33A8DB;
     font-weight: bold;
-    letter-spacing: 4px;
+    letter-spacing: 2px;
     text-transform: uppercase;
-    margin-bottom: 24px;
+    margin-bottom: 12px;
   }
   
   p {
@@ -32,21 +32,21 @@ body {
     background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(49, 168, 221, .2), rgba(0, 0, 0, .6)), url('../images/banner.png');
     background-size: cover;
     background-repeat: no-repeat;
-    height: 600px;
-    padding-top: 60px;
-    border-bottom: 1px solid #33A8DB80;
+    height: 725px;
+    padding-top: 30px;
+    border-bottom: 1px solid #33A8DB60;
   }
   
   .banner .banner-content {
     color: white;
-    width: 600px;
+    width: 705px;
     margin: auto;
     text-align: center;
   }
   
   .banner h1 {
-    font-size: 2.5rem;
-    font-weight: 900;
+    font-size: 3rem;
+    font-weight: 1000;
     text-transform: uppercase;
     color: transparent;
     background: -webkit-linear-gradient(#33A8DB, #1472B7);
@@ -55,14 +55,14 @@ body {
   }
   
   .banner p {
-    font-size: 1.25rem;
-    margin: 16px 0 24px;
+    font-size: 1.5rem;
+    margin: 24px 0 32px;
   }
   
   .banner .logo {
     background-color: rgba(0, 0, 0, .2);
-    height: 260px;
-    width: 260px;
+    height: 393px;
+    width: 510px;
     margin: auto;
     border-radius: 50%;
     padding: 16px;
@@ -87,6 +87,7 @@ body {
     border-image: linear-gradient(#3BA1CD, #1572B7);
     border-image-slice: 10;
     border-radius: 30px;
+    margin-bottom: 16px;
   }
   
   #course-content {
